@@ -15,7 +15,7 @@ This is a program that is designed to generate employee profile data. The progra
 
 
 ## GitHub Repository
-1. 
+1. https://github.com/Onyedikachi-E/employee_salary_function
 
 
 ## Packages Used in the project
